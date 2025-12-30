@@ -1,10 +1,11 @@
-[<div align="center">
+<div align="center">
   <img 
-    src="blob:https://in.pinterest.com/49f3d7f4-0af4-4313-9b60-300e22204145"
+    src="https://drive.google.com/uc?export=view&id=15GzR_wTpFGCi4tHG34tg_dRyJ_10t1_w"
     style="width:100%; max-width:900px;"
-    alt="coding workspace animation"
+    alt="GitHub profile banner"
   />
-</div>](https://i.pinimg.com/736x/fd/82/b8/fd82b805d21f287ce455965fe2b8e05e.jpg)
+</div>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=flat-square&logo=github" />
