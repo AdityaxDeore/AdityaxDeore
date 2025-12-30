@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif"
+    src="blob:https://in.pinterest.com/49f3d7f4-0af4-4313-9b60-300e22204145"
     style="width:100%; max-width:900px;"
     alt="coding workspace animation"
   />
