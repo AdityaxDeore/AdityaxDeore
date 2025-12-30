@@ -1,10 +1,11 @@
 <div align="center">
   <img 
     src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif"
-    width="180"
+    width="140"
     alt="coding animation"
   />
 </div>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=flat-square&logo=github" />
