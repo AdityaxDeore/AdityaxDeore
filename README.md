@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="250" />
+</div>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=flat-square&logo=github" />
