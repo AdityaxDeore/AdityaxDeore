@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="250" />
+<div>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" />
 </div>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
 <div align="center">
