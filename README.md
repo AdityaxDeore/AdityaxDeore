@@ -1,11 +1,3 @@
-<div align="center">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=15GzR_wTpFGCi4tHG34tg_dRyJ_10t1_w"
-    style="width:100%; max-width:900px;"
-    alt="GitHub profile banner"
-  />
-</div>
-
 <h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Aditya Deore</span></h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack-Developer-blue?style=flat-square&logo=github" />
