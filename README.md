@@ -29,12 +29,13 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaxDeore&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaxDeore&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaxDeore&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaxDeore&layout=compact&theme=transparent&hide_border=true" width="48%" />
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaxDeore&theme=github-dark&hide_border=true&bg_color=00000000" width="96%" style="margin-top: 10px;" />
+  <h3>🟩 Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/219138/AdityaxDeore" alt="AdityaxDeore's GitHub Contribution Grid" width="80%" style="margin-top: 10px; margin-bottom: 20px;" />
 </div>
 
 <br/>
