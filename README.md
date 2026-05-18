@@ -29,13 +29,33 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaxDeore&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaxDeore&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaxDeore&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaxDeore&theme=transparent&hide_border=true&mode=weekly" width="48%" />
   
   <br/>
-  
-  <h3>🟩 Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/219138/AdityaxDeore" alt="AdityaxDeore's GitHub Contribution Grid" width="80%" style="margin-top: 10px; margin-bottom: 20px;" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaxDeore&theme=github-compact&hide_border=true&bg_color=00000000&line=58A6FF&point=1F6FEB" width="96%" style="margin-top: 10px;" />
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h2>🧭 Focus</h2>
+  <p>ML and AI development, scalable backends, and clean full-stack UX.</p>
+  <p>Open to collaboration on practical, high-impact products.</p>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h2>🔎 Signals</h2>
+  <img src="https://img.shields.io/github/followers/AdityaxDeore?label=Followers&style=flat&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/AdityaxDeore/AdityaxDeore?label=Profile%20Stars&style=flat&color=58A6FF" />
+  <img src="https://img.shields.io/github/last-commit/AdityaxDeore/AdityaxDeore?label=Profile%20Last%20Update&style=flat&color=58A6FF" />
 </div>
 
 <br/>
