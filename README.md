@@ -34,7 +34,23 @@
   
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaxDeore&theme=github-compact&hide_border=true&bg_color=00000000&line=58A6FF&point=1F6FEB" width="96%" style="margin-top: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaxDeore&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaxDeore&theme=github" width="48%" />
+
+  <br/>
+
+  <h3>🟩 Contribution Grid</h3>
+  <img src="https://ghchart.rshah.org/1f6feb/AdityaxDeore" alt="AdityaxDeore's GitHub Contribution Grid" width="90%" style="margin-top: 10px; margin-bottom: 8px;" />
+  <sub>Private contributions appear in the stats cards above when enabled in GitHub settings.</sub>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaxDeore&theme=flat&no-frame=true&no-bg=true&column=6" width="96%" />
 </div>
 
 <br/>
