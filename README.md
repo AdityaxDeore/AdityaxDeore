@@ -327,14 +327,6 @@
 
 ---
 
-<h2 align="center" class="animated-heading" style="animation: neon-glow 3s infinite; animation-delay: 3s;">🏆 Achievements & Trophies 🏆</h2>
-
-<div align="center" style="animation: fade-in-up 2.6s ease-out;">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaxDeore&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 <h2 align="center" class="gradient-text" style="font-size: 24px; animation: fade-in-up 2.8s ease-out;">🌟 Quick Stats 🌟</h2>
 
 <div align="center" style="animation: fade-in-up 3s ease-out; max-width: 700px; margin: 0 auto;">
