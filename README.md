@@ -16,27 +16,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="30" />
 </div>
 
-<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr>
-    <td align="center" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggUb3RMTu/giphy.gif" alt="Hacker Coding" width="100%" style="border-radius: 15px; border: 2px solid #00FF9C;" />
-    </td>
-    <td align="left" width="60%">
-      <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="35"> <b>/// ROOT_USER //: ADITYA</b>
-      </h2>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" width="20"/> <b>Forging high-performance digital weapons.</b></p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="20"/> <b>Architecting scalable neural networks & systems.</b></p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20"/> <b>Tech Stack: JavaScript, Python, React, NoSQL.</b></p>
-      <p><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull.png" width="20"/> <b>Error 404: Sleep not found.</b></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="30" />
-</div>
-
 <div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="40"/> <b>TECH ARSENAL</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" width="40"/></h2>
   
