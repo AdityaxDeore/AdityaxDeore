@@ -48,45 +48,21 @@
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaxDeore&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaxDeore&background=0d1117&fire=58a6ff&ring=58a6ff&currStreakNum=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&hide_border=true" width="48%" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaxDeore&layout=compact&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h2>🏆 Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=AdityaxDeore&theme=radical&no-frame=true&no-bg=true&column=6" width="96%" alt="Trophies" />
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
   <h2>📅 Contribution History</h2>
   
   <h3>2026</h3>
-  <img src="https://ghchart.rshah.org/58a6ff/2026AdityaxDeore" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
   <h3>2025</h3>
-  <img src="https://ghchart.rshah.org/58a6ff/2025AdityaxDeore" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
   <h3>2024</h3>
-  <img src="https://ghchart.rshah.org/58a6ff/2024AdityaxDeore" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
   
   <br/><br/>
-  <sub>Private contributions appear in the stats cards above when enabled in GitHub settings.</sub>
+  <sub>Private contributions appear when enabled in GitHub settings.</sub>
 </div>
