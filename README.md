@@ -78,29 +78,48 @@
 <div align="center">
   <h2>Technologies & Tools</h2>
   
-  <h3>Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,mysql" alt="Programming Languages" />
+  <table width="100%" border="0" cellspacing="15">
+    <tr>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3>💻 Programming Languages</h3>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" alt="Programming Languages" />
+      </td>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3>⚙️ Frameworks & Libraries</h3>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,sklearn,pandas,numpy" alt="Frameworks & Libraries" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3>🗄️ Databases</h3>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
+      </td>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3>🛠️ Tools & Platforms</h3>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions" alt="Tools & Platforms" />
+      </td>
+    </tr>
+  </table>
 
   <br/>
-  <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,sklearn,pandas,numpy" alt="Frameworks & Libraries" />
-
-  <br/>
-  <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
-
-  <br/>
-  <h3>Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions" alt="Tools & Platforms" />
-
-  <br/>
-  <h3>Soft Skills</h3>
-  <br/>
-  <img src="https://img.shields.io/badge/Problem%20Solving-21262d?style=flat-square&logoColor=white" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Teamwork-21262d?style=flat-square&logoColor=white" alt="Teamwork" />
-  <img src="https://img.shields.io/badge/Decision%20Making-21262d?style=flat-square&logoColor=white" alt="Decision Making" />
-  <img src="https://img.shields.io/badge/Critical%20Thinking-21262d?style=flat-square&logoColor=white" alt="Critical Thinking" />
-  <img src="https://img.shields.io/badge/Adaptability-21262d?style=flat-square&logoColor=white" alt="Adaptability" />
+  
+  <table width="100%" border="0" cellspacing="15">
+    <tr>
+      <td align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117;">
+        <h3>🧠 Soft Skills</h3>
+        <br/>
+        <img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge" alt="Problem Solving" />
+        <img src="https://img.shields.io/badge/Teamwork-1f6feb?style=for-the-badge" alt="Teamwork" />
+        <img src="https://img.shields.io/badge/Decision%20Making-1f6feb?style=for-the-badge" alt="Decision Making" />
+        <img src="https://img.shields.io/badge/Critical%20Thinking-1f6feb?style=for-the-badge" alt="Critical Thinking" />
+        <img src="https://img.shields.io/badge/Adaptability-1f6feb?style=for-the-badge" alt="Adaptability" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
