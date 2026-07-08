@@ -153,17 +153,17 @@
   <img src="assets/header-contributions.svg" alt="Contribution History" width="380" />
   
   <h3>2026</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31&bg=ffffff" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
   <h3>2025</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31&bg=ffffff" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
   <h3>2024</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31&bg=ffffff" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
   
   <br/><br/>
   <sub>Private contributions appear when enabled in GitHub settings.</sub>
