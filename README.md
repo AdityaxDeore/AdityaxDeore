@@ -29,16 +29,16 @@
 
 ## <font color="#58a6ff">Professional Experience</font>
 
-- ### Associate Software Engineer
+- ### <font color="#58a6ff">Associate Software Engineer</font>
   ITSA | Pune, India | Hybrid | May 2025 - Jan 2026
 
-- ### Artificial Intelligence Intern
+- ### <font color="#58a6ff">Artificial Intelligence Intern</font>
   Personify Health | Remote | Mar 2025 - May 2025
 
 ## <font color="#58a6ff">Core Focus Areas</font>
-* **AI & Machine Learning:** Architecting autonomous agents, structured LLM integration pipelines, predictive analytics systems, and clinical image classification models.
-* **Full-Stack Engineering:** Developing responsive web applications, secure REST APIs, clean database schemas, and highly functional dashboard interfaces.
-* **Product Execution:** Transitioning ideas into deployment-ready tools with an emphasis on performance, robust architecture, and clear user experiences.
+* **<font color="#58a6ff">AI & Machine Learning:</font>** Architecting autonomous agents, structured LLM integration pipelines, predictive analytics systems, and clinical image classification models.
+* **<font color="#58a6ff">Full-Stack Engineering:</font>** Developing responsive web applications, secure REST APIs, clean database schemas, and highly functional dashboard interfaces.
+* **<font color="#58a6ff">Product Execution:</font>** Transitioning ideas into deployment-ready tools with an emphasis on performance, robust architecture, and clear user experiences.
 
 <br/>
 <hr/>
@@ -77,6 +77,30 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+<hr/>
+<br/>
+
+<div align="center">
+  <h2><font color="#58a6ff">Contribution History</font></h2>
+  
+  <h3>2026</h3>
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
+  
+  <br/><br/>
+  
+  <h3>2025</h3>
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
+  
+  <br/><br/>
+  
+  <h3>2024</h3>
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
+  
+  <br/><br/>
+  <sub>Private contributions appear when enabled in GitHub settings.</sub>
 </div>
 
 <br/>
@@ -128,28 +152,4 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h2><font color="#58a6ff">Contribution History</font></h2>
-  
-  <h3>2026</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
-  
-  <br/><br/>
-  
-  <h3>2025</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
-  
-  <br/><br/>
-  
-  <h3>2024</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
-  
-  <br/><br/>
-  <sub>Private contributions appear when enabled in GitHub settings.</sub>
 </div>
