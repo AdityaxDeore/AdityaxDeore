@@ -12,11 +12,17 @@
 
 <div align="center">
   <a href="https://github.com/AdityaxDeore">
-    <img src="https://komarev.com/ghpvc/?username=AdityaxDeore&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AdityaxDeore&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/github/followers/AdityaxDeore?label=Followers&style=for-the-badge&color=1f6feb&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AdityaxDeore/AdityaxDeore?label=Profile%20Stars&style=for-the-badge&color=1f6feb&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/last-commit/AdityaxDeore/AdityaxDeore?label=Last%20Update&style=for-the-badge&color=1f6feb&logo=github" alt="Last Update" />
+  <a href="https://github.com/AdityaxDeore?tab=followers">
+    <img src="https://img.shields.io/github/followers/AdityaxDeore?label=Followers&style=for-the-badge&color=58a6ff&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/AdityaxDeore/AdityaxDeore/stargazers">
+    <img src="https://img.shields.io/github/stars/AdityaxDeore/AdityaxDeore?label=Profile%20Stars&style=for-the-badge&color=58a6ff&logo=github" alt="Profile Stars" />
+  </a>
+  <a href="https://github.com/AdityaxDeore/AdityaxDeore/commits/master">
+    <img src="https://img.shields.io/github/last-commit/AdityaxDeore/AdityaxDeore?label=Last%20Update&style=for-the-badge&color=58a6ff&logo=github" alt="Last Update" />
+  </a>
 </div>
 
 <br/>
@@ -26,17 +32,20 @@
 <table width="100%" border="0">
   <tr>
     <td width="30%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/AdityaxDeore?v=4" width="200px" style="border-radius: 50%; border: 3px solid #1f6feb;" alt="Avatar" />
+      <img src="https://avatars.githubusercontent.com/u/170283215?v=4" width="205px" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Aditya Deore Avatar" />
+      <br/><br/>
+      <a href="https://adityadeore.vercel.app/">
+        <img src="https://img.shields.io/badge/View%20Portfolio-adityadeore.vercel.app-1f6feb?style=for-the-badge&logo=vercel" alt="Portfolio" />
+      </a>
     </td>
     <td width="70%">
-      <h2>Focus & Objective</h2>
-      <a href="https://adityadeore.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-adityadeore.vercel.app-1f6feb?style=for-the-badge&logo=vercel" alt="Portfolio" />
-      </a>
-      <br/><br/>
-      <b>Primary Focus:</b> Machine Learning & AI Engineering (models, agents, LLMs)<br/><br/>
-      <b>Architecture:</b> Scalable backend architectures, API designs, & clean full-stack UX<br/><br/>
-      <b>Collaboration:</b> Open to working on practical, high-impact products
+      <h2>Builder Profile</h2>
+      <p>
+        I build practical AI-powered products with clean interfaces, reliable backends, and user-focused workflows.
+      </p>
+      <b>AI & ML:</b> Models, agents, LLM workflows, prediction systems, and applied machine learning<br/><br/>
+      <b>Full-Stack Engineering:</b> Scalable APIs, modern web apps, dashboards, and polished product UX<br/><br/>
+      <b>Product Mindset:</b> Focused on useful, high-impact tools that solve real problems
     </td>
   </tr>
 </table>
@@ -47,25 +56,34 @@
 
 <div align="center">
   <h2>Featured Projects</h2>
+  <p>Selected work across AI, learning platforms, healthcare ML, and creative tooling.</p>
   <table width="100%" border="0" cellspacing="15">
     <tr>
-      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-        <h3><a href="https://github.com/AdityaxDeore/what-really" style="color:#58A6FF; text-decoration:none;">🚀 what-really</a></h3>
-        <p style="color: #c9d1d9;">Featured AI/ML Project</p>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3><a href="https://github.com/AdityaxDeore/Code-Campus" style="color:#58A6FF; text-decoration:none;">🎓 Code Campus</a></h3>
+        <p style="color: #c9d1d9;">AI-powered coding learning platform with guided hints and step-by-step explanations.</p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/AI%20Learning-1f6feb?style=flat-square" alt="AI Learning" />
       </td>
-      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-        <h3><a href="https://github.com/AdityaxDeore/developer-metrics-booster" style="color:#58A6FF; text-decoration:none;">📈 developer-metrics-booster</a></h3>
-        <p style="color: #c9d1d9;">Featured Development Tool</p>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3><a href="https://github.com/AdityaxDeore/Clarity-Mental-Health-AI-assistance" style="color:#58A6FF; text-decoration:none;">🧘 Clarity</a></h3>
+        <p style="color: #c9d1d9;">Digital mental-health platform with AI wellness support, mood tracking, and student-focused resources.</p>
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Mental%20Health%20AI-1f6feb?style=flat-square" alt="Mental Health AI" />
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-        <h3><a href="https://github.com/AdityaxDeore/reactive-state-mesh" style="color:#58A6FF; text-decoration:none;">⚡ reactive-state-mesh</a></h3>
-        <p style="color: #c9d1d9;">Featured Architecture Project</p>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3><a href="https://github.com/AdityaxDeore/brain-tumor-detection" style="color:#58A6FF; text-decoration:none;">🧠 Brain Tumor Detection</a></h3>
+        <p style="color: #c9d1d9;">Machine-learning project for brain tumor detection and classification using medical imaging data.</p>
+        <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter" alt="Jupyter Notebook" />
+        <img src="https://img.shields.io/badge/Healthcare%20ML-1f6feb?style=flat-square" alt="Healthcare ML" />
       </td>
-      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-        <h3><a href="https://github.com/AdityaxDeore/neural-compiler" style="color:#58A6FF; text-decoration:none;">🧠 neural-compiler</a></h3>
-        <p style="color: #c9d1d9;">Featured Deep Learning Tool</p>
+      <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
+        <h3><a href="https://github.com/AdityaxDeore/obamify" style="color:#58A6FF; text-decoration:none;">🎨 Obamify</a></h3>
+        <p style="color: #c9d1d9;">Creative image transformation tool that turns any image into an Obama-inspired result.</p>
+        <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust" alt="Rust" />
+        <img src="https://img.shields.io/badge/Image%20Tooling-1f6feb?style=flat-square" alt="Image Tooling" />
       </td>
     </tr>
   </table>
@@ -88,7 +106,7 @@
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
         <h3>⚙️ Frameworks & Libraries</h3>
         <br/>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,sklearn,pandas,numpy" alt="Frameworks & Libraries" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tensorflow,sklearn,pandas,numpy" alt="Frameworks & Libraries" />
       </td>
     </tr>
     <tr>
