@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="assets/banner.png" width="100%" alt="Aditya Deore Banner" />
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
