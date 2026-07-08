@@ -15,11 +15,6 @@
 <br/>
 
 <div align="center">
-  <h2>Builder Profile</h2>
-  <p>
-    I build practical AI-powered products with clean interfaces, reliable backends, and user-focused workflows.
-  </p>
-  
   <br/>
   <a href="https://adityadeore.vercel.app/">
     <img src="portfolio-button.svg" width="450px" alt="Visit Portfolio Website" />
