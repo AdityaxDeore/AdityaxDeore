@@ -24,15 +24,21 @@
 
 ## <font color="#58a6ff">Professional Experience</font>
 
-- ### <font color="#58a6ff">Associate Software Engineer</font>
-  ITSA | Pune, India | Hybrid | May 2025 - Jan 2026
+* **<font color="#58a6ff">Associate Software Engineer</font>** | ITSA | Pune, India | Hybrid | May 2025 - Jan 2026
 
-- ### <font color="#58a6ff">Artificial Intelligence Intern</font>
-  Personify Health | Remote | Mar 2025 - May 2025
+<br/>
+
+* **<font color="#58a6ff">Artificial Intelligence Intern</font>** | Personify Health | Remote | Mar 2025 - May 2025
 
 ## <font color="#58a6ff">Core Focus Areas</font>
 * **<font color="#58a6ff">AI & Machine Learning:</font>** Architecting autonomous agents, structured LLM integration pipelines, predictive analytics systems, and clinical image classification models.
+
+<br/>
+
 * **<font color="#58a6ff">Full-Stack Engineering:</font>** Developing responsive web applications, secure REST APIs, clean database schemas, and highly functional dashboard interfaces.
+
+<br/>
+
 * **<font color="#58a6ff">Product Execution:</font>** Transitioning ideas into deployment-ready tools with an emphasis on performance, robust architecture, and clear user experiences.
 
 <br/>
