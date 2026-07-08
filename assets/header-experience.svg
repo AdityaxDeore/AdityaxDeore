@@ -21,8 +21,8 @@
   </defs>
   <line x1="8" y1="16" x2="8" y2="44" class="line" />
   <g transform="translate(18, 16)">
-    <path d="M22 10v6M2 10l10-5 10 5-10 5z" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-    <path d="M6 12v5c0 2 2 3 6 3s6-1 6-3v-5" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <rect width="20" height="14" x="2" y="7" rx="2" ry="2" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linejoin="round"/>
   </g>
-  <text x="56" y="37" class="title">EDUCATION &amp; TRAINING</text>
+  <text x="56" y="37" class="title">PROFESSIONAL EXPERIENCE</text>
 </svg>
