@@ -27,7 +27,7 @@
   <br/><br/>
 </div>
 
-## Professional Experience
+## <font color="#58a6ff">Professional Experience</font>
 
 - ### Associate Software Engineer
   ITSA | Pune, India | Hybrid | May 2025 - Jan 2026
@@ -35,7 +35,7 @@
 - ### Artificial Intelligence Intern
   Personify Health | Remote | Mar 2025 - May 2025
 
-## Core Focus Areas
+## <font color="#58a6ff">Core Focus Areas</font>
 * **AI & Machine Learning:** Architecting autonomous agents, structured LLM integration pipelines, predictive analytics systems, and clinical image classification models.
 * **Full-Stack Engineering:** Developing responsive web applications, secure REST APIs, clean database schemas, and highly functional dashboard interfaces.
 * **Product Execution:** Transitioning ideas into deployment-ready tools with an emphasis on performance, robust architecture, and clear user experiences.
@@ -45,7 +45,7 @@
 <br/>
 
 <div align="center">
-  <h2>Featured Projects</h2>
+  <h2><font color="#58a6ff">Featured Projects</font></h2>
   <p>Selected work across AI, learning platforms, healthcare ML, and creative tooling.</p>
   <table width="100%" border="0" cellspacing="15">
     <tr>
@@ -84,7 +84,7 @@
 <br/>
 
 <div align="center">
-  <h2>Technologies & Tools</h2>
+  <h2><font color="#58a6ff">Technologies & Tools</font></h2>
   
   <table width="100%" border="0" cellspacing="15">
     <tr>
@@ -135,7 +135,7 @@
 <br/>
 
 <div align="center">
-  <h2>Contribution History</h2>
+  <h2><font color="#58a6ff">Contribution History</font></h2>
   
   <h3>2026</h3>
   <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
