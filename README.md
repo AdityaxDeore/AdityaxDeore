@@ -10,22 +10,7 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/AdityaxDeore">
-    <img src="https://komarev.com/ghpvc/?username=AdityaxDeore&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/AdityaxDeore?tab=followers">
-    <img src="https://img.shields.io/github/followers/AdityaxDeore?label=Followers&style=for-the-badge&color=58a6ff&logo=github" alt="Followers" />
-  </a>
-  <a href="https://github.com/AdityaxDeore/AdityaxDeore/stargazers">
-    <img src="https://img.shields.io/github/stars/AdityaxDeore/AdityaxDeore?label=Profile%20Stars&style=for-the-badge&color=58a6ff&logo=github" alt="Profile Stars" />
-  </a>
-  <a href="https://github.com/AdityaxDeore/AdityaxDeore/commits/master">
-    <img src="https://img.shields.io/github/last-commit/AdityaxDeore/AdityaxDeore?label=Last%20Update&style=for-the-badge&color=58a6ff&logo=github" alt="Last Update" />
-  </a>
-</div>
 
-<br/>
 <hr/>
 <br/>
 
