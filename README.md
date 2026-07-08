@@ -38,19 +38,25 @@
 </div>
 
 <br/><br/>
-<img src="assets/header-experience.svg" alt="Professional Experience" width="380" />
+<img src="assets/header-education.svg" alt="Formal Education & Professional Training" width="380" />
 
-* **Associate Software Engineer** @ **ITSA** *(May 2025 – Jan 2026 • Hybrid)*
-  * Developed and maintained web platforms for hackathons, workshops, and technical initiatives reaching 3,500+ students.
-  * Built a Unique Student ID-based registration and attendance system to streamline logistics and reduce manual effort.
-  * *Skills:* Software Infrastructure, Full-Stack Development, Event Systems
+[Artificial Intelligence Institute](https://artificialintelligenceinstitute.org) | AI Engineering Bootcamp | Nov 2023 - Nov 2026
 
-<hr/>
+[University of the People](https://www.uopeople.edu/) | Bachelor of Science in Computer Science | Jun 2026 - Nov 2028
 
-* **Artificial Intelligence Intern** @ **Personify Health** *(Mar 2025 – May 2025 • Remote)*
-  * Developed and evaluated machine learning solutions using Python and TensorFlow.
-  * Contributed to data preprocessing, model development, and performance evaluation pipelines.
-  * *Skills:* Agentic AI Development, Artificial Intelligence (AI), Machine Learning
+<br/><br/>
+<img src="assets/header-ai-history.svg" alt="AI Engineering Work History" width="380" />
+
+- **AI Engineer** | Northbridge | Seattle, WA | Remote | Jan 2026 - Present
+- **Artificial Intelligence Intern** | Personify Health | Remote | Mar 2025 - May 2025
+
+<br/><br/>
+<img src="assets/header-swe-history.svg" alt="Software Engineering Work History" width="380" />
+
+- **Associate Software Engineer** | ITSA | Pune, India | Hybrid | May 2025 - Jan 2026
+- **Senior Software Engineer** | [Walmart](https://www.walmart.com/cp/pharmacy/5431) | Bellevue, WA | On-site | Nov 2022 - Mar 2024
+- **Senior Software Engineer** | [Fabletics](https://fabletics.com/) | Seattle, WA | On-site | Jan 2021 - Nov 2022
+- **Software Engineer** | [Lululemon](https://shop.lululemon.com/) | Seattle, WA | Hybrid | Mar 2020 - Dec 2020
 
 <br/><br/>
 <img src="assets/header-focus.svg" alt="Core Focus Areas" width="380" />

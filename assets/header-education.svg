@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="60" viewBox="0 0 450 60">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#58a6ff" />
+    </linearGradient>
+    <style>
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 20px;
+        font-weight: 800;
+        fill: url(#grad);
+        letter-spacing: 1.5px;
+      }
+      .line {
+        stroke: url(#grad);
+        stroke-width: 4;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <line x1="8" y1="16" x2="8" y2="44" class="line" />
+  <g transform="translate(18, 16)">
+    <path d="M22 10v6M2 10l10-5 10 5-10 5z" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M6 12v5c0 2 2 3 6 3s6-1 6-3v-5" fill="none" stroke="url(#grad)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <text x="56" y="37" class="title">EDUCATION &amp; TRAINING</text>
+</svg>
