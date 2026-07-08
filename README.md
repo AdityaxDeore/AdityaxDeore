@@ -37,7 +37,8 @@
   <br/><br/>
 </div>
 
-### <img src="https://api.iconify.design/octicon/briefcase-24.svg?color=58a6ff" width="22" height="22" /> Professional Experience
+<br/><br/>
+<img src="assets/header-experience.svg" alt="Professional Experience" width="380" />
 
 * **Associate Software Engineer** @ **ITSA** *(May 2025 – Jan 2026 • Hybrid)*
   * Developed and maintained web platforms for hackathons, workshops, and technical initiatives reaching 3,500+ students.
@@ -49,7 +50,8 @@
   * Contributed to data preprocessing, model development, and performance evaluation pipelines.
   * *Skills:* Agentic AI Development, Artificial Intelligence (AI), Machine Learning
 
-### <img src="https://api.iconify.design/octicon/rocket-24.svg?color=58a6ff" width="22" height="22" /> Core Focus Areas
+<br/><br/>
+<img src="assets/header-focus.svg" alt="Core Focus Areas" width="380" />
 * **AI & Machine Learning:** Architecting autonomous agents, structured LLM integration pipelines, predictive analytics systems, and clinical image classification models.
 * **Full-Stack Engineering:** Developing responsive web applications, secure REST APIs, clean database schemas, and highly functional dashboard interfaces.
 * **Product Execution:** Transitioning ideas into deployment-ready tools with an emphasis on performance, robust architecture, and clear user experiences.
@@ -59,18 +61,19 @@
 <br/>
 
 <div align="center">
-  <h2>Featured Projects</h2>
+  <br/><br/>
+  <img src="assets/header-projects.svg" alt="Featured Projects" width="380" />
   <p>Selected work across AI, learning platforms, healthcare ML, and creative tooling.</p>
   <table width="100%" border="0" cellspacing="15">
     <tr>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><a href="https://github.com/AdityaxDeore/Code-Campus" style="color:#58A6FF; text-decoration:none;"><img src="https://api.iconify.design/octicon/mortar-board-24.svg?color=58a6ff" width="20" height="20" /> Code Campus</a></h3>
+        <h3><a href="https://github.com/AdityaxDeore/Code-Campus" style="color:#58A6FF; text-decoration:none;">Code Campus</a></h3>
         <p style="color: #c9d1d9;">AI-powered coding learning platform with guided hints and step-by-step explanations.</p>
         <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript" alt="JavaScript" />
         <img src="https://img.shields.io/badge/AI%20Learning-1f6feb?style=flat-square" alt="AI Learning" />
       </td>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><a href="https://github.com/AdityaxDeore/Clarity-Mental-Health-AI-assistance" style="color:#58A6FF; text-decoration:none;"><img src="https://api.iconify.design/octicon/heart-24.svg?color=58a6ff" width="20" height="20" /> Clarity</a></h3>
+        <h3><a href="https://github.com/AdityaxDeore/Clarity-Mental-Health-AI-assistance" style="color:#58A6FF; text-decoration:none;">Clarity</a></h3>
         <p style="color: #c9d1d9;">Digital mental-health platform with AI wellness support, mood tracking, and student-focused resources.</p>
         <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Mental%20Health%20AI-1f6feb?style=flat-square" alt="Mental Health AI" />
@@ -78,13 +81,13 @@
     </tr>
     <tr>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><a href="https://github.com/AdityaxDeore/brain-tumor-detection" style="color:#58A6FF; text-decoration:none;"><img src="https://api.iconify.design/octicon/pulse-24.svg?color=58a6ff" width="20" height="20" /> Brain Tumor Detection</a></h3>
+        <h3><a href="https://github.com/AdityaxDeore/brain-tumor-detection" style="color:#58A6FF; text-decoration:none;">Brain Tumor Detection</a></h3>
         <p style="color: #c9d1d9;">Machine-learning project for brain tumor detection and classification using medical imaging data.</p>
         <img src="https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter" alt="Jupyter Notebook" />
         <img src="https://img.shields.io/badge/Healthcare%20ML-1f6feb?style=flat-square" alt="Healthcare ML" />
       </td>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><a href="https://github.com/AdityaxDeore/obamify" style="color:#58A6FF; text-decoration:none;"><img src="https://api.iconify.design/octicon/paintbrush-24.svg?color=58a6ff" width="20" height="20" /> Obamify</a></h3>
+        <h3><a href="https://github.com/AdityaxDeore/obamify" style="color:#58A6FF; text-decoration:none;">Obamify</a></h3>
         <p style="color: #c9d1d9;">Creative image transformation tool that turns any image into an Obama-inspired result.</p>
         <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust" alt="Rust" />
         <img src="https://img.shields.io/badge/Image%20Tooling-1f6feb?style=flat-square" alt="Image Tooling" />
@@ -98,29 +101,30 @@
 <br/>
 
 <div align="center">
-  <h2>Technologies & Tools</h2>
+  <br/><br/>
+  <img src="assets/header-tech.svg" alt="Technologies & Tools" width="380" />
   
   <table width="100%" border="0" cellspacing="15">
     <tr>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><img src="https://api.iconify.design/octicon/code-24.svg?color=58a6ff" width="20" height="20" /> Programming Languages</h3>
+        <h3>Programming Languages</h3>
         <br/>
         <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" alt="Programming Languages" />
       </td>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><img src="https://api.iconify.design/octicon/package-24.svg?color=58a6ff" width="20" height="20" /> Frameworks & Libraries</h3>
+        <h3>Frameworks & Libraries</h3>
         <br/>
         <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,tensorflow,sklearn,pandas,numpy" alt="Frameworks & Libraries" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><img src="https://api.iconify.design/octicon/database-24.svg?color=58a6ff" width="20" height="20" /> Databases</h3>
+        <h3>Databases</h3>
         <br/>
         <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" />
       </td>
       <td width="50%" align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117; vertical-align: top;">
-        <h3><img src="https://api.iconify.design/octicon/tools-24.svg?color=58a6ff" width="20" height="20" /> Tools & Platforms</h3>
+        <h3>Tools & Platforms</h3>
         <br/>
         <img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions" alt="Tools & Platforms" />
       </td>
@@ -132,7 +136,7 @@
   <table width="100%" border="0" cellspacing="15">
     <tr>
       <td align="center" style="border: 2px solid #1f6feb; border-radius: 12px; padding: 20px; background-color: #0d1117;">
-        <h3><img src="https://api.iconify.design/octicon/people-24.svg?color=58a6ff" width="20" height="20" /> Soft Skills</h3>
+        <h3>Soft Skills</h3>
         <br/>
         <img src="https://img.shields.io/badge/Problem%20Solving-1f6feb?style=for-the-badge" alt="Problem Solving" />
         <img src="https://img.shields.io/badge/Teamwork-1f6feb?style=for-the-badge" alt="Teamwork" />
@@ -149,20 +153,21 @@
 <br/>
 
 <div align="center">
-  <h2>Contribution History</h2>
+  <br/><br/>
+  <img src="assets/header-contributions.svg" alt="Contribution History" width="380" />
   
   <h3>2026</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2026-01-01&to=2026-12-31&bg=ffffff" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
   <h3>2025</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2025-01-01&to=2025-12-31&bg=ffffff" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
   <h3>2024</h3>
-  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
+  <img src="https://github-contributions-api.deno.dev/AdityaxDeore.svg?from=2024-01-01&to=2024-12-31&bg=ffffff" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
   
   <br/><br/>
   <sub>Private contributions appear when enabled in GitHub settings.</sub>
