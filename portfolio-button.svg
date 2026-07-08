@@ -71,8 +71,11 @@
 
   <!-- Link/Arrow Icon & Text -->
   <g transform="translate(35, 0)">
-    <!-- Briefcase Icon -->
-    <path d="M22 26h-6a2 2 0 0 0-2 2v24a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V28a2 2 0 0 0-2-2h-6v-3a3 3 0 0 0-3-3h-4a3 3 0 0 0-3 3v3zm4-3h4v3h-4v-3z" fill="#ffffff" opacity="0.95"/>
+    <!-- Globe / Web Icon -->
+    <g transform="translate(12, 28)" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.95">
+      <circle cx="12" cy="12" r="10" />
+      <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10M12 2a15.3 15.3 0 0 0-4 10 15.3 15.3 0 0 0 4 10" />
+    </g>
     
     <!-- Text Group -->
     <text x="50" y="38" class="btn-text">VISIT PORTFOLIO WEBSITE</text>
