@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="80" viewBox="0 0 450 80">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="btnGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#58a6ff" />
+    </linearGradient>
+    <linearGradient id="shimmerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+    
+    <style>
+      .btn-bg {
+        fill: url(#btnGrad);
+        rx: 16px;
+      }
+      
+      .btn-text {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        fill: #ffffff;
+        letter-spacing: 1px;
+      }
+      
+      .btn-subtext {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 11px;
+        font-weight: 600;
+        fill: rgba(255, 255, 255, 0.8);
+        letter-spacing: 1.5px;
+      }
+      
+      /* Pulse Glow Animation */
+      @keyframes pulse {
+        0% { filter: drop-shadow(0 2px 5px rgba(31, 111, 235, 0.4)); }
+        50% { filter: drop-shadow(0 5px 15px rgba(88, 166, 255, 0.7)); }
+        100% { filter: drop-shadow(0 2px 5px rgba(31, 111, 235, 0.4)); }
+      }
+      
+      /* Shimmer Animation */
+      @keyframes shimmer {
+        0% { transform: translateX(-450px) skewX(-20deg); }
+        100% { transform: translateX(450px) skewX(-20deg); }
+      }
+      
+      .animated-glow {
+        animation: pulse 3s infinite ease-in-out;
+      }
+      
+      .shimmer-rect {
+        animation: shimmer 3s infinite linear;
+      }
+    </style>
+  </defs>
+
+  <!-- Glowing Background Group -->
+  <g class="animated-glow">
+    <rect class="btn-bg" width="450" height="80" rx="16" />
+  </g>
+
+  <!-- Shimmer Effect Overlay (clipped to button shape) -->
+  <g clip-path="url(#clipBtn)">
+    <clipPath id="clipBtn">
+      <rect width="450" height="80" rx="16" />
+    </clipPath>
+    <rect class="shimmer-rect" width="250" height="80" fill="url(#shimmerGrad)" opacity="0.6" />
+  </g>
+
+  <!-- Link/Arrow Icon & Text -->
+  <g transform="translate(35, 0)">
+    <!-- Briefcase Icon -->
+    <path d="M22 26h-6a2 2 0 0 0-2 2v24a2 2 0 0 0 2 2h24a2 2 0 0 0 2-2V28a2 2 0 0 0-2-2h-6v-3a3 3 0 0 0-3-3h-4a3 3 0 0 0-3 3v3zm4-3h4v3h-4v-3z" fill="#ffffff" opacity="0.95"/>
+    
+    <!-- Text Group -->
+    <text x="50" y="38" class="btn-text">VISIT PORTFOLIO WEBSITE</text>
+    <text x="50" y="55" class="btn-subtext">adityadeore.vercel.app</text>
+    
+    <!-- Arrow Icon -->
+    <path d="M340 40 L328 32 L328 48 Z" fill="#ffffff" opacity="0.95"/>
+  </g>
+</svg>

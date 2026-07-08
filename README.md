@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1f6feb,0d1117&height=220&section=header&text=Aditya%20Deore&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" alt="Aditya Deore Banner" />
-</div>
-
-<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -29,26 +24,35 @@
 <hr/>
 <br/>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://avatars.githubusercontent.com/u/170283215?v=4" width="205px" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Aditya Deore Avatar" />
-      <br/><br/>
-      <a href="https://adityadeore.vercel.app/">
-        <img src="https://img.shields.io/badge/View%20Portfolio-adityadeore.vercel.app-1f6feb?style=for-the-badge&logo=vercel" alt="Portfolio" />
-      </a>
-    </td>
-    <td width="70%">
-      <h2>Builder Profile</h2>
-      <p>
-        I build practical AI-powered products with clean interfaces, reliable backends, and user-focused workflows.
-      </p>
-      <b>AI & ML:</b> Models, agents, LLM workflows, prediction systems, and applied machine learning<br/><br/>
-      <b>Full-Stack Engineering:</b> Scalable APIs, modern web apps, dashboards, and polished product UX<br/><br/>
-      <b>Product Mindset:</b> Focused on useful, high-impact tools that solve real problems
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>Builder Profile</h2>
+  <p>
+    I build practical AI-powered products with clean interfaces, reliable backends, and user-focused workflows.
+  </p>
+  
+  <br/>
+  <a href="https://adityadeore.vercel.app/">
+    <img src="portfolio-button.svg" width="450px" alt="Visit Portfolio Website" />
+  </a>
+  <br/><br/>
+</div>
+
+### 💼 Professional Experience
+
+* **Associate Software Engineer** @ **ITSA** *(May 2025 – Jan 2026 • Hybrid)*
+  * Developed and maintained web platforms for hackathons, workshops, and technical initiatives reaching 3,500+ students.
+  * Built a Unique Student ID-based registration and attendance system to streamline logistics and reduce manual effort.
+  * *Skills:* Software Infrastructure, Full-Stack Development, Event Systems
+  
+* **Artificial Intelligence Intern** @ **Personify Health** *(Mar 2025 – May 2025 • Remote)*
+  * Developed and evaluated machine learning solutions using Python and TensorFlow.
+  * Contributed to data preprocessing, model development, and performance evaluation pipelines.
+  * *Skills:* Agentic AI Development, Artificial Intelligence (AI), Machine Learning
+
+### 🚀 Core Focus Areas
+* **AI & Machine Learning:** Architecting autonomous agents, structured LLM integration pipelines, predictive analytics systems, and clinical image classification models.
+* **Full-Stack Engineering:** Developing responsive web applications, secure REST APIs, clean database schemas, and highly functional dashboard interfaces.
+* **Product Execution:** Transitioning ideas into deployment-ready tools with an emphasis on performance, robust architecture, and clear user experiences.
 
 <br/>
 <hr/>
