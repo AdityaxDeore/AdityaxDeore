@@ -44,7 +44,9 @@
   * Developed and maintained web platforms for hackathons, workshops, and technical initiatives reaching 3,500+ students.
   * Built a Unique Student ID-based registration and attendance system to streamline logistics and reduce manual effort.
   * *Skills:* Software Infrastructure, Full-Stack Development, Event Systems
-  
+
+<hr/>
+
 * **Artificial Intelligence Intern** @ **Personify Health** *(Mar 2025 – May 2025 • Remote)*
   * Developed and evaluated machine learning solutions using Python and TensorFlow.
   * Contributed to data preprocessing, model development, and performance evaluation pipelines.
