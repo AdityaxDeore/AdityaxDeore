@@ -87,7 +87,7 @@
 <div align="center">
   <h2><font color="#58a6ff">Contribution History</font></h2>
   
-  <img src="https://ghchart.rshah.org/58A6FF/AdityaxDeore" alt="AdityaxDeore's GitHub Contributions" width="90%" />
+  <img src="https://ghchart.rshah.org/AdityaxDeore" alt="AdityaxDeore's GitHub Contributions" width="90%" />
   
   <br/><br/>
 
