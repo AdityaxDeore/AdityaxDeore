@@ -87,10 +87,20 @@
 <div align="center">
   <h2><font color="#58a6ff">Contribution History</font></h2>
   
-  <img src="https://ghchart.rshah.org/AdityaxDeore" alt="AdityaxDeore's GitHub Contributions" width="90%" />
+  <h3>2026</h3>
+  <img src="https://ghchart.rshah.org/AdityaxDeore" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
   
   <br/><br/>
-
+  
+  <h3>2025</h3>
+  <img src="assets/contributions_2025.svg" alt="AdityaxDeore's 2025 GitHub Contributions" width="90%" />
+  
+  <br/><br/>
+  
+  <h3>2024</h3>
+  <img src="assets/contributions_2024.svg" alt="AdityaxDeore's 2024 GitHub Contributions" width="90%" />
+  
+  <br/><br/>
   <sub>Private contributions appear when enabled in GitHub settings.</sub>
 </div>
 
