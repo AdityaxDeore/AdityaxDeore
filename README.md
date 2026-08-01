@@ -88,7 +88,7 @@
   <h2><font color="#58a6ff">Contribution History</font></h2>
   
   <h3>2026</h3>
-  <img src="https://ghchart.rshah.org/AdityaxDeore" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
+  <img src="assets/contributions_2026.svg" alt="AdityaxDeore's 2026 GitHub Contributions" width="90%" />
   
   <br/><br/>
   
